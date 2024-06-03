@@ -1,7 +1,7 @@
 ## Stretch Data Collection with Main Camera
 
 ### Instructions for Running 
-On the stretch terminal, run the command `python ar_collect.py ` 
+On the stretch terminal, run the command `python ar_collect.py `. When prompted, input what task you are collecting the information for. This will stored in a folder in `data`. 
 
 On the oculus quest, open the application called "arcapston_cam" 
 
